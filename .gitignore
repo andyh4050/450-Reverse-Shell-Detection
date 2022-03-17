@@ -1,0 +1,5 @@
+result2.csv
+benign_result2.csv
+data/*
+
+*.pyc
